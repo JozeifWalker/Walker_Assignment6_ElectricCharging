@@ -1,5 +1,5 @@
 # Walker_Assignment6_ElectricCharging
-This application utilizes Rest programming by providing an updated list with available chargers, locations of the chargers, and the timestamp that the data was accessed as well from the server. 
+This application utilizes RESTful calls by providing an updated list with available chargers, locations of the chargers, and the timestamp that the data was accessed from the server. 
 # Demonstration
 Running on a Pixel 6P: https://youtu.be/fjfHhE0xUvc
 
