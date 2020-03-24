@@ -1,5 +1,5 @@
 # Walker_Assignment6_ElectricCharging
-This application utilizes REST api  by providing an updated list with available chargers, locations of the chargers, and the timestamp that the data was accessed from the server. 
+This application utilizes REST and makes calls to Charge-point API and returns an updated list with available chargers, locations of the chargers, and the timestamp that the data was accessed from the server. 
 # Demonstration
 Running on a Pixel 6P: https://youtu.be/fjfHhE0xUvc
 
